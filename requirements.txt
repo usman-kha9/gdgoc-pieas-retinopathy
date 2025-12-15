@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+albumentations>=1.3.0
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+seaborn
+tensorboard
+torchmetrics

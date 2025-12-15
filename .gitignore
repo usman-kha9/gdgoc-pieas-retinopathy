@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+outputs/
+.env
+venv/
+.ipynb_checkpoints/
+__MACOSX/
+.DS_Store
